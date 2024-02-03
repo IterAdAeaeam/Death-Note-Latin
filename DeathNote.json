@@ -1,1 +1,39 @@
-
+{
+  "title": "Death Note - Versio Latina",
+  "description": "The story follows Light Yagami, a genius high school student who discovers a mysterious notebook: the Death Note, which belonged to the shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+  "artist": "Takeshi Obata",
+  "author": "Tsugumi Ōba",
+  "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGxVhFqawrK5ptLnswW1Za8xeci8Inv3d-CDZjyPKZ2GeVTam7lw6Qp2k8uiYp_N_RWmY6E_YjHge3ocRwA1QjFbVYhjm7c8k5_aKA4cJTjxqvGf8kJgIlln2IGsyKNwvj6sLsx6Y0w7izjm9-AzoFT4jarZ7CWk6xE_ilnS5avRGUp44BLd72AfA/s16000/ZaH2Zz9.png",
+  "chapters": {
+    "1": {
+      "title": "Taedium",
+      "volume": "1",
+      "last_updated": "1706984242",
+      "groups": {
+        "IterAdAeaeam": [
+          "https://imgur.com/a/5f4gq1W"
+        ]
+      }
+    },
+    "2": {
+      "title": "L",
+      "volume": "1",
+      "last_updated": "1706984336",
+      "groups": {
+        "IterAdAeaeam": [
+          "https://imgur.com/a/I11QFbM"
+        ]
+      }
+    },
+    "3": {
+      "title": "Familia",
+      "volume": "1",
+      "last_updated": "1706984364",
+      "groups": {
+        "IterAdAeaeam": [
+          "https://imgur.com/a/RCxeiMl"
+        ]
+      }
+    }
+  }
+}
